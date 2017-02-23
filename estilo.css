@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+button {
+    background-color: #7fba67;
+    color: #ffffff;   
+    width: 100%;
+    padding:30px;
+    font-size: 1em;
+    margin-top: 10px;
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;   
+}
+div {
+    display: block;
+}
